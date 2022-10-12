@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c4fd270.css",
+    "main.js": "/static/js/main.94841ada.js",
+    "static/media/me.jpg": "/static/media/me.59f8023b3a41346d5d05.jpg",
+    "static/media/кинопоиск.PNG": "/static/media/кинопоиск.90606d00a8d207a5525f.PNG",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/туры.PNG": "/static/media/туры.30055319a0d0c1a1f62a.PNG",
+    "static/media/imgLogo4.png": "/static/media/imgLogo4.eba6abcb1d517f8fdd80.png",
+    "static/media/меню.PNG": "/static/media/меню.6b3e50787334fbdc2561.PNG",
+    "static/media/bgrImg.jpg": "/static/media/bgrImg.6f8bdf6a28d100f3a988.jpg",
+    "static/media/bgrImg1.jpg": "/static/media/bgrImg1.bbee6f457c1f27290c1b.jpg",
+    "static/media/прогнозПогоды.PNG": "/static/media/прогнозПогоды.b927437840c53315e05e.PNG",
+    "static/media/играКости.PNG": "/static/media/играКости.c334498d4abfbc0f0fa8.PNG",
+    "static/media/bgImage3.jpg": "/static/media/bgImage3.8d303f8367c91a9b17b2.jpg",
+    "static/media/часы.PNG": "/static/media/часы.7e885a502e44ac3ec7ef.PNG",
+    "static/media/cv.pdf": "/static/media/cv.360ea219ae24a7054f17.pdf",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/играУмножения.PNG": "/static/media/играУмножения.11cb6884822cb5b776a6.PNG",
+    "static/media/корзина.PNG": "/static/media/корзина.f6cd0a508e20a824dbed.PNG",
+    "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/числовойСчетчик.PNG": "/static/media/числовойСчетчик.6159615713496b3bd326.PNG",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/logo.svg": "/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.1c4fd270.css.map": "/static/css/main.1c4fd270.css.map",
+    "main.94841ada.js.map": "/static/js/main.94841ada.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c4fd270.css",
+    "static/js/main.94841ada.js"
+  ]
+}
